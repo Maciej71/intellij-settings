@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/main/java/builder/SimpleBookInNumbers.java [SimpleExamples]'" />
-    <option name="defaultScopeName" value="File '.../src/main/java/builder/SimpleBookInNumbers.java [SimpleExamples]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/main/java/builder/SimpleBookInNumbers.java [SimpleExamples]'" />
+    <option name="customScope" value="File '.../src/main/java/avoid_unnecessary_objects/ExpensiveObjects.java [SimpleExamples]'" />
+    <option name="defaultScopeName" value="File '.../src/main/java/avoid_unnecessary_objects/ExpensiveObjects.java [SimpleExamples]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/main/java/avoid_unnecessary_objects/ExpensiveObjects.java [SimpleExamples]'" />
   </component>
 </application>
