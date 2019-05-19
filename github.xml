@@ -1,11 +1,10 @@
 <application>
   <component name="GithubAccounts">
-    <account id="dfc9e1d6-19f2-444e-a372-376bf84998ec" name="Maciej71">
+    <account id="0028d13a-395e-4a8a-bb8c-f405a371b14e" name="Maciej71">
       <server host="github.com" />
     </account>
   </component>
   <component name="GithubSettings">
-    <option name="AUTH_TYPE" value="TOKEN" />
     <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
