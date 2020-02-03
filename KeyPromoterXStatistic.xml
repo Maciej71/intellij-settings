@@ -25,12 +25,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Optimize Imports">
+        <Item>
+          <IdeaActionID>OptimizeImports</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+O'</ShortCut>
+          <Description>Optimize Imports</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+L'</ShortCut>
+          <Description>Reformat Code</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
